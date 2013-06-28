@@ -1,0 +1,9 @@
+
+dimensions=2
+parameters=1
+parameternames=N
+parameterinstantiations=100
+pipconstraints=sort.dom
+dependencies=sort.dep
+vertices=sort.ver
+

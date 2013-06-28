@@ -1,0 +1,34 @@
+
+# band matrix multiply vertices
+#
+# vertices are for a particular instantiation of the parameters
+#
+# p_1, q_1, p_2, q_2  =  8, 1, 8, 1
+#
+
+# number_vertices dimensions
+8 3
+
+# N = 100
+# i   j   k
+#
+# 1   1   1
+# 1   1   min (p_1 + 1, q_2 + 1)
+# 1   N   N-p_2
+# 1   N   1 + p_1
+# N   1   N - q_1
+# N   1   1 + q_2
+# N   N   max (N - q_1, N - p_2)
+# N   N   N
+
+  1   1   1
+  1   1   2
+  1   100 92
+  1   100 9
+  100 1   99
+  100 1   2
+  100 100 99
+  100 100 100
+  
+  
+

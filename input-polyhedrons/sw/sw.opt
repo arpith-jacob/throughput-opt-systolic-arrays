@@ -1,0 +1,9 @@
+
+dimensions=2
+parameters=1
+parameternames=N
+parameterinstantiations=300
+pipconstraints=sw.dom
+dependencies=sw.dep
+vertices=sw.ver
+

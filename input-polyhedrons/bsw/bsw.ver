@@ -1,0 +1,31 @@
+
+# banded smith waterman vertices
+#
+# vertices are for a particular instantiation of the parameters
+#
+# M, N, w = 300, 300, 66
+#
+
+# number_vertices dimensions
+6 2
+
+# i   j 
+#
+# 1      1 
+# M      N
+# w/2    1
+# 1      w/2
+# M      M-w/2+1
+# N-w/2 N
+#
+
+
+  1    1 
+  300  300
+  33   1
+  1    33
+  300  268
+  267  300
+  
+  
+

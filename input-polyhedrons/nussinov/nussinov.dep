@@ -1,0 +1,18 @@
+
+# nussinov dependencies
+#
+# in a format such that \lambda d < 0
+
+# number_dependencies dimensions
+7 3
+
+# i  j  k
+  1  0  0
+  0 -1  0
+  1 -1  0
+  0  0  1
+  2  0  0
+  1  0 -1
+  0 -1 -1
+
+

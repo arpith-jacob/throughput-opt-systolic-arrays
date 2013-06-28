@@ -1,0 +1,15 @@
+
+# sort vertices
+#
+# vertices are for a particular instantiation of the parameters
+
+# number_vertices dimensions
+4 2
+
+# N = 100
+# i   j 
+  1   1
+  1   2
+  101 1
+  101 102
+

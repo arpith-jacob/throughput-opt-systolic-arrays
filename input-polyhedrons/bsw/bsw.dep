@@ -1,0 +1,14 @@
+
+# banded smith waterman dependencies
+#
+# in a format such that \lambda d < 0
+
+# number_dependencies dimensions
+
+3 2
+
+# i  j 
+ -1  0
+  0 -1
+ -1 -1
+

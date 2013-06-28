@@ -1,0 +1,9 @@
+
+dimensions=3
+parameters=1
+parameternames=N
+parameterinstantiations=81
+pipconstraints=nussinov.dom
+dependencies=nussinov.dep
+vertices=nussinov.ver
+

@@ -1,0 +1,9 @@
+
+dimensions=2
+parameters=2
+parameternames=N1 N2
+parameterinstantiations=100 100
+pipconstraints=bmv.dom
+dependencies=bmv.dep
+vertices=bmv.ver
+

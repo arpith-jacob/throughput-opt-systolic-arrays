@@ -1,0 +1,9 @@
+
+dimensions=3
+parameters=1
+parameternames=N
+parameterinstantiations=100
+pipconstraints=bmm.dom
+dependencies=bmm.dep
+vertices=bmm.ver
+

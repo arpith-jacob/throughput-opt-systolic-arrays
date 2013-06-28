@@ -1,0 +1,13 @@
+
+# band matrix vector multiply dependencies
+#
+# in a format such that \lambda d < 0
+
+# number_dependencies dimensions
+
+2 2
+
+# i  j 
+  0 -1 
+ -1  0 
+
